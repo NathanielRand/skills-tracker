@@ -33,7 +33,7 @@
 | CSS (Bootstrap) |    :fire:    | :fire: |        |        |           |        |
 |      JavaScript |    :fire:    | :fire: | :fire: |        |           |        |
 |            JSON |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
-|           React |    :fire:    | :fire: |        |        |           |        |
+|           React |    :fire:    | :fire: | :fire: |        |           |        |
 |        GopherJS |    :fire:    |        |        |        |           |        |
 |         Node.js |    :fire:    | :fire: |        |        |           |        |
 |        Markdown |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
