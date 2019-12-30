@@ -65,9 +65,9 @@
 |     Chrome DevTools |    :fire:    | :fire: | :fire: | :fire: |           |        |
 |                cURL |    :fire:    | :fire: |        |        |           |        |
 |             Postman |    :fire:    | :fire: | :fire: |        |           |        |
-|              Trello |    :fire:    | :fire: | :fire: | :fire: |           |        |
+|              Trello |    :fire:    | :fire: | :fire: | :fire: |           | :fire: |
 |              Monday |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |            BuildBox |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |            Adobe XD |    :fire:    |        |        |        |           |        |
-|              Crello |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
-|               Canva |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
+|              Crello |    :fire:    | :fire: | :fire: | :fire: |  :fire:   | :fire: |
+|               Canva |    :fire:    | :fire: | :fire: | :fire: |  :fire:   | :fire: |
