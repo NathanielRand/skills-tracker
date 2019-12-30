@@ -24,7 +24,7 @@
 
 ## LANGUAGES / FRAMEWORKS / LIBRARIES / ETC
 
-|          Skills | Introduction | Basics |  Good  |  Mid   | Confident | Master |
+|          Skills | Intro | Basics |  Good  |  Mid   | Confident | Master |
 | --------------: | :----------: | :----: | :----: | :----: | :-------: | :----: |
 |           HTML5 |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |            CSS3 |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
@@ -50,7 +50,7 @@
 
 ## TOOLS
 
-|               Tools | Introduction | Basics |  Good  |  Mid   | Confident | Master |
+|               Tools | Intro | Basics |  Good  |  Mid   | Confident | Master |
 | ------------------: | :----------: | :----: | :----: | :----: | :-------: | :----: |
 | Command Line (Bash) |    :fire:    | :fire: | :fire: | :fire: |           |        |
 |             VS Code |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
