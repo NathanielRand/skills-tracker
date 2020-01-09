@@ -9,7 +9,7 @@
 |       Status       | Year | Course                                                     | Teacher                     |                                        Links                                         |
 | :----------------: | :--: | :--------------------------------------------------------- | :-------------------------- | :----------------------------------------------------------------------------------: |
 |       :soon:       | 2020 | Full Stack Web Developer - Nanodegree Program              | Udacity                     | [Course](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd0044) |
-|       :soon:       | 2020 | Complete React Developer in 2020                           | Andrei Neagoie, Yihua Zhang |   [Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)   |
+|       :soon:       | 2020 | Complete React Developer - 2020                           | Andrei Neagoie, Yihua Zhang |   [Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/)   |
 |       :soon:       | 2020 | Gophercises                                                | Jon Calhoun                 |                          [Course](https://gophercises.com/)                          |
 |       :soon:       | 2020 | JavaScript30                                               | Wes Bos                     |                         [Course](https://javascript30.com/)                          |
 |      :wrench:      | 2019 | The Complete React Developer Course                        | Andrew Mead                 |              [Course](https://www.udemy.com/course/react-2nd-edition/)               |
@@ -34,10 +34,11 @@
 |      JavaScript |    :fire:    | :fire: | :fire: |        |           |        |
 |            JSON |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |           React |    :fire:    | :fire: | :fire: |        |           |        |
+|           Redux |    :fire:    | :fire: |        |        |           |        |
 |        GopherJS |    :fire:    |        |        |        |           |        |
 |         Node.js |    :fire:    | :fire: |        |        |           |        |
 |        Markdown |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
-|   Ruby on Rails |    :fire:    | :fire: |        |        |           |        |
+|   Ruby on Rails |    :fire:    |        |        |        |           |        |
 |              Go |    :fire:    | :fire: | :fire: | :fire: |           |        |
 |            GORM |    :fire:    | :fire: |        |        |           |        |
 |         Gorilla |    :fire:    | :fire: |        |        |           |        |
@@ -58,6 +59,7 @@
 |                 Git |    :fire:    | :fire: | :fire: |        |           |        |
 |              Github |    :fire:    | :fire: | :fire: |        |           |        |
 |              Gitlab |    :fire:    | :fire: | :fire: |        |           |        |
+|      DNS Management |    :fire:    | :fire: | :fire: |        |           |        |
 |        Google Cloud |    :fire:    | :fire: | :fire: |        |           |        |
 |       Digital Ocean |    :fire:    | :fire: |        |        |           |        |
 |              Heroku |    :fire:    | :fire: |        |        |           |        |
