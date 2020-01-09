@@ -33,9 +33,9 @@
 | CSS (Bootstrap) |    :fire:    | :fire: |        |        |           |        |
 |      JavaScript |    :fire:    | :fire: | :fire: |        |           |        |
 |            JSON |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
-|           ReactJS |    :fire:    | :fire: | :fire: |        |           |        |
-|           Jest |    :fire:    | :fire: | :fire: |        |           |        |
+|         ReactJS |    :fire:    | :fire: | :fire: |        |           |        |
 |           Redux |    :fire:    | :fire: |        |        |           |        |
+|            Jest |    :fire:    |        |        |        |           |        |
 |        GopherJS |    :fire:    |        |        |        |           |        |
 |         Node.js |    :fire:    | :fire: |        |        |           |        |
 |        Markdown |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
@@ -68,7 +68,7 @@
 |     Chrome DevTools |    :fire:    | :fire: | :fire: | :fire: |           |        |
 |                cURL |    :fire:    | :fire: |        |        |           |        |
 |             Postman |    :fire:    | :fire: | :fire: |        |           |        |
-|              Trello |    :fire:    | :fire: | :fire: | :fire: |           | :fire: |
+|              Trello |    :fire:    | :fire: | :fire: | :fire: |  :fire:   | :fire: |
 |              Monday |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |            BuildBox |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |            Adobe XD |    :fire:    |        |        |        |           |        |
