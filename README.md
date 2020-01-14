@@ -35,7 +35,8 @@
 |            JSON |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |         ReactJS |    :fire:    | :fire: | :fire: |        |           |        |
 |           Redux |    :fire:    | :fire: |        |        |           |        |
-|            Jest |    :fire:    |        |        |        |           |        |
+|            Jest |    :fire:    | :fire: |        |        |           |        |
+|          Enzyme |    :fire:    | :fire: |        |        |           |        |
 |        GopherJS |    :fire:    |        |        |        |           |        |
 |         Node.js |    :fire:    | :fire: |        |        |           |        |
 |        Markdown |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
