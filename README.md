@@ -40,10 +40,10 @@
 |        GopherJS |    :fire:    |        |        |        |           |        |
 |         Node.js |    :fire:    | :fire: |        |        |           |        |
 |        Markdown |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
-|   Ruby on Rails |    :fire:    |        |        |        |           |        |
 |              Go |    :fire:    | :fire: | :fire: | :fire: |           |        |
 |            GORM |    :fire:    | :fire: |        |        |           |        |
 |         Gorilla |    :fire:    | :fire: |        |        |           |        |
+|   Ruby on Rails |    :fire:    |        |        |        |           |        |
 |             SQL |    :fire:    | :fire: | :fire: | :fire: |           |        |
 |      PostgreSQL |    :fire:    | :fire: | :fire: |        |           |        |
 |           MySQL |    :fire:    | :fire: |        |        |           |        |
