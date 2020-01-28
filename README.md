@@ -63,12 +63,14 @@
 |              Gitlab |    :fire:    | :fire: | :fire: |        |           |        |
 |      DNS Management |    :fire:    | :fire: | :fire: |        |           |        |
 |        Google Cloud |    :fire:    | :fire: | :fire: |        |           |        |
+|            Firebase |    :fire:    |        |        |        |           |        |
 |       Digital Ocean |    :fire:    | :fire: |        |        |           |        |
 |              Heroku |    :fire:    | :fire: |        |        |           |        |
 |              Glitch |    :fire:    | :fire: |        |        |           |        |
 |     Chrome DevTools |    :fire:    | :fire: | :fire: | :fire: |           |        |
 |                cURL |    :fire:    | :fire: |        |        |           |        |
 |             Postman |    :fire:    | :fire: | :fire: |        |           |        |
+|            DataGrip |    :fire:    | :fire: |        |        |           |        |
 |              Trello |    :fire:    | :fire: | :fire: | :fire: |  :fire:   | :fire: |
 |              Monday |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
 |            BuildBox |    :fire:    | :fire: | :fire: | :fire: |  :fire:   |        |
